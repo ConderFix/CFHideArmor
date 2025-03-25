@@ -42,5 +42,5 @@
 
 ---
 **Server**: <br>
-![image](https://github.com/user-attachments/assets/052ae53e-d57e-41df-ac94-bfea8ac8b65b)
+![image](https://github.com/user-attachments/assets/61874033-ba2d-4b88-b764-067ae12ddc4e)
 ---
