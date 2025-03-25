@@ -20,7 +20,7 @@ public class FakeStrengthArmorPacket implements PacketListener {
             final ItemStack stack = armor.getItem();
 
             stack.setAmount(64);
-            stack.setDamageValue(1000);
+            stack.setDamageValue(Integer.MAX_VALUE);
         });
     }
 }
