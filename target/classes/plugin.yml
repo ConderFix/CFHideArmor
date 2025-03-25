@@ -1,0 +1,6 @@
+name: CFHideArmor
+version: '1.0.0'
+main: ru.quizie.cfhidearmor.CFHideArmor
+api-version: '1.16'
+depend:
+  - packetevents
